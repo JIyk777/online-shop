@@ -1,3 +1,9 @@
+import { MainNavBar } from './MainNavBar/MainNavBar';
+
 export const App = () => {
-  return;
+  return (
+    <div>
+      <MainNavBar></MainNavBar>
+    </div>
+  );
 };

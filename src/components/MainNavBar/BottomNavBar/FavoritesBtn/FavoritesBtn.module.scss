@@ -1,0 +1,16 @@
+.box {
+  display: flex;
+  gap: 20px;
+  margin-left: auto;
+}
+
+.iconBox {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.favoritesIcon {
+  width: 20px;
+  height: 20px;
+}
