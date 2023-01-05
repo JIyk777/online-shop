@@ -1,0 +1,24 @@
+.box {
+  display: flex;
+  gap: 4px;
+  margin-top: 180px;
+}
+
+.pageBtn {
+  display: flex;
+
+  width: 178px;
+  font-weight: 700;
+  font-size: 28px;
+  color: #424551;
+  border: 0;
+  background-color: #fbe4d4;
+  border-bottom: 2px solid #424551;
+  padding: 10px 0;
+  opacity: 0.6;
+  cursor: pointer;
+  &:hover,
+  &:focus {
+    opacity: 1;
+  }
+}

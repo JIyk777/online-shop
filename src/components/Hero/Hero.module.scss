@@ -1,0 +1,59 @@
+@import '/src/assets/styles/index.scss';
+
+.box {
+  background-color: #fbe4d4;
+}
+
+.container {
+  position: relative;
+  height: 800px;
+  background-color: #fbe4d4;
+  background-image: url(../../assets/img/fon.jpg);
+
+  background-repeat: no-repeat;
+}
+
+.slideRightBtn {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: 0;
+  right: -160px;
+  top: 376px;
+  cursor: pointer;
+}
+
+.slideLeftBtn {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: 0;
+  left: -160px;
+  top: 376px;
+  cursor: pointer;
+}
+
+.title {
+  margin-top: 12px;
+  font-weight: 700;
+  font-size: 72px;
+}
+
+.text {
+  padding-top: 200px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+.slideIcon {
+  width: 24px;
+  height: 24px;
+}
