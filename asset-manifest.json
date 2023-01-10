@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/online-shop/static/css/main.34ad6d2e.css",
-    "main.js": "/online-shop/static/js/main.e6e65fde.js",
+    "main.css": "/online-shop/static/css/main.384e86ae.css",
+    "main.js": "/online-shop/static/js/main.eb4a62cc.js",
     "static/media/fon.jpg": "/online-shop/static/media/fon.a9ce1090d156034211f3.jpg",
+    "static/media/MainPageCategoryKids@2x.jpg": "/online-shop/static/media/MainPageCategoryKids@2x.e7594225550aa289ba7c.jpg",
+    "static/media/MainPageCategoryWoman@2x.jpg": "/online-shop/static/media/MainPageCategoryWoman@2x.63788648b0d4f511a5ce.jpg",
+    "static/media/MainPageCategoryMan@2x.jpg": "/online-shop/static/media/MainPageCategoryMan@2x.f6cd44b48373f5647560.jpg",
+    "static/media/MainPageCategoryKids.jpg": "/online-shop/static/media/MainPageCategoryKids.7434a6506c89ac8694d2.jpg",
+    "static/media/MainPageCategoryWoman.jpg": "/online-shop/static/media/MainPageCategoryWoman.ddac2541e69cb5a896c9.jpg",
+    "static/media/MainPageCategoryMan.jpg": "/online-shop/static/media/MainPageCategoryMan.770c800d0ae7307628a5.jpg",
     "index.html": "/online-shop/index.html",
-    "main.34ad6d2e.css.map": "/online-shop/static/css/main.34ad6d2e.css.map",
-    "main.e6e65fde.js.map": "/online-shop/static/js/main.e6e65fde.js.map"
+    "main.384e86ae.css.map": "/online-shop/static/css/main.384e86ae.css.map",
+    "main.eb4a62cc.js.map": "/online-shop/static/js/main.eb4a62cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.34ad6d2e.css",
-    "static/js/main.e6e65fde.js"
+    "static/css/main.384e86ae.css",
+    "static/js/main.eb4a62cc.js"
   ]
 }
