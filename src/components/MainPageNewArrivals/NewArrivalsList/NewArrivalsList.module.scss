@@ -1,0 +1,48 @@
+@import 'assets/styles/_container.scss';
+
+.newArrivalsListBox {
+  display: flex;
+  gap: 30px;
+}
+
+.newArrivalsLinkBox {
+  position: relative;
+  width: calc((100% - 150px) / 6);
+}
+
+.productText {
+  padding: 16px 16px 0 16px;
+  font-weight: 400;
+  font-size: 11px;
+}
+
+.productPrice {
+  display: block;
+  padding: 8px 16px 0 16px;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.newArrivalsFavoritesIconBox {
+  position: absolute;
+  bottom: 62px;
+  right: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 26px;
+  height: 26px;
+  border: 0;
+  border-radius: 50%;
+  cursor: pointer;
+
+  background-color: #ffffff;
+  &:hover,
+  &:focus {
+    background-color: #17696a;
+    color: #ffffff;
+  }
+}
+
+.newArrivalsFavoritesIcon {
+}

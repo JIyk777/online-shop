@@ -1,0 +1,26 @@
+@import 'assets/styles/_container.scss';
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 148px;
+}
+
+.newArrivalsTitle {
+  font-size: 36px;
+}
+
+.newArrivalsText {
+  margin-top: 24px;
+  font-size: 12px;
+  color: #787a80;
+}
+
+.newArrivalsLink {
+  margin-bottom: 60px;
+  font-size: 12px;
+  text-decoration: underline;
+  color: #17696a;
+}
