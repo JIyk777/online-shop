@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/online-shop/static/css/main.384e86ae.css",
-    "main.js": "/online-shop/static/js/main.eb4a62cc.js",
+    "main.css": "/online-shop/static/css/main.7bcbfca0.css",
+    "main.js": "/online-shop/static/js/main.db663006.js",
     "static/media/fon.jpg": "/online-shop/static/media/fon.a9ce1090d156034211f3.jpg",
     "static/media/MainPageCategoryKids@2x.jpg": "/online-shop/static/media/MainPageCategoryKids@2x.e7594225550aa289ba7c.jpg",
     "static/media/MainPageCategoryWoman@2x.jpg": "/online-shop/static/media/MainPageCategoryWoman@2x.63788648b0d4f511a5ce.jpg",
@@ -9,12 +9,16 @@
     "static/media/MainPageCategoryKids.jpg": "/online-shop/static/media/MainPageCategoryKids.7434a6506c89ac8694d2.jpg",
     "static/media/MainPageCategoryWoman.jpg": "/online-shop/static/media/MainPageCategoryWoman.ddac2541e69cb5a896c9.jpg",
     "static/media/MainPageCategoryMan.jpg": "/online-shop/static/media/MainPageCategoryMan.770c800d0ae7307628a5.jpg",
+    "static/media/shoes_new_arrivals@2x.jpg": "/online-shop/static/media/shoes_new_arrivals@2x.23dc36b40471bed07a75.jpg",
+    "static/media/earring_new_arrivals@2x.jpg": "/online-shop/static/media/earring_new_arrivals@2x.e86f692040b8348988e2.jpg",
+    "static/media/jeans_new_arrivals@2x.jpg": "/online-shop/static/media/jeans_new_arrivals@2x.06cd282e63518fc226dd.jpg",
+    "static/media/hat_new_arrivals@2x.jpg": "/online-shop/static/media/hat_new_arrivals@2x.96216b888dfa1fee4e75.jpg",
     "index.html": "/online-shop/index.html",
-    "main.384e86ae.css.map": "/online-shop/static/css/main.384e86ae.css.map",
-    "main.eb4a62cc.js.map": "/online-shop/static/js/main.eb4a62cc.js.map"
+    "main.7bcbfca0.css.map": "/online-shop/static/css/main.7bcbfca0.css.map",
+    "main.db663006.js.map": "/online-shop/static/js/main.db663006.js.map"
   },
   "entrypoints": [
-    "static/css/main.384e86ae.css",
-    "static/js/main.eb4a62cc.js"
+    "static/css/main.7bcbfca0.css",
+    "static/js/main.db663006.js"
   ]
 }
