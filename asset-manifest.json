@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/online-shop/static/css/main.7bcbfca0.css",
-    "main.js": "/online-shop/static/js/main.db663006.js",
+    "main.css": "/online-shop/static/css/main.5b8be142.css",
+    "main.js": "/online-shop/static/js/main.09c6b554.js",
     "static/media/fon.jpg": "/online-shop/static/media/fon.a9ce1090d156034211f3.jpg",
     "static/media/MainPageCategoryKids@2x.jpg": "/online-shop/static/media/MainPageCategoryKids@2x.e7594225550aa289ba7c.jpg",
     "static/media/MainPageCategoryWoman@2x.jpg": "/online-shop/static/media/MainPageCategoryWoman@2x.63788648b0d4f511a5ce.jpg",
@@ -14,11 +14,11 @@
     "static/media/jeans_new_arrivals@2x.jpg": "/online-shop/static/media/jeans_new_arrivals@2x.06cd282e63518fc226dd.jpg",
     "static/media/hat_new_arrivals@2x.jpg": "/online-shop/static/media/hat_new_arrivals@2x.96216b888dfa1fee4e75.jpg",
     "index.html": "/online-shop/index.html",
-    "main.7bcbfca0.css.map": "/online-shop/static/css/main.7bcbfca0.css.map",
-    "main.db663006.js.map": "/online-shop/static/js/main.db663006.js.map"
+    "main.5b8be142.css.map": "/online-shop/static/css/main.5b8be142.css.map",
+    "main.09c6b554.js.map": "/online-shop/static/js/main.09c6b554.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bcbfca0.css",
-    "static/js/main.db663006.js"
+    "static/css/main.5b8be142.css",
+    "static/js/main.09c6b554.js"
   ]
 }
