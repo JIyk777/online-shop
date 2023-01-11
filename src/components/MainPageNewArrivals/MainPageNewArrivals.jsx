@@ -12,6 +12,28 @@ export const MainPageNewArrivals = () => {
         See the collection here
       </a>
       <NewArrivalsList></NewArrivalsList>
+      <div className={scss.newArrivalsPagination}>
+        <button
+          className={scss.newArrivalsPaginationItem}
+          type="button"
+        ></button>
+        <button
+          className={scss.newArrivalsPaginationItem}
+          type="button"
+        ></button>
+        <button
+          className={scss.newArrivalsPaginationItem}
+          type="button"
+        ></button>
+        <button
+          className={scss.newArrivalsPaginationItem}
+          type="button"
+        ></button>
+        <button
+          className={scss.newArrivalsPaginationItem}
+          type="button"
+        ></button>
+      </div>
     </div>
   );
 };
