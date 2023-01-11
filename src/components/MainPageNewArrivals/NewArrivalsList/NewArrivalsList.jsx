@@ -16,58 +16,75 @@ import scss from './NewArrivalsList.module.scss';
 
 export const NewArrivalsList = () => {
   return (
-    <div className={scss.newArrivalsListBox}>
-      <a className={scss.newArrivalsLinkBox} href="/">
-        <img src={isRetina(hat1x, hat2x)} alt="Black and white sport cap" />
-        <button type="button" className={scss.newArrivalsFavoritesIconBox}>
-          <CiHeart></CiHeart>
-        </button>
-        <p className={scss.productText}>Black and white sport cap</p>
-        <span className={scss.productPrice}>$18.15</span>
-      </a>
-      <a className={scss.newArrivalsLinkBox} href="/">
-        <img src={isRetina(glass1x, glass2x)} alt="Metal bridge sunglasses" />
-        <button type="button" className={scss.newArrivalsFavoritesIconBox}>
-          <CiHeart></CiHeart>
-        </button>
-        <p className={scss.productText}>Metal bridge sunglasses</p>
-        <span className={scss.productPrice}>$89.95</span>
-      </a>
-      <a className={scss.newArrivalsLinkBox} href="/">
-        <img src={isRetina(romper1x, romper2x)} alt="Green baby romper" />
-        <button type="button" className={scss.newArrivalsFavoritesIconBox}>
-          <CiHeart></CiHeart>
-        </button>
-        <p className={scss.productText}>Green baby romper</p>
-        <span className={scss.productPrice}>$20.40</span>
-      </a>
-      <a className={scss.newArrivalsLinkBox} href="/">
-        <img
-          src={isRetina(jeans1x, jeans2x)}
-          alt="Mid-rise slim cropped fit jeans"
-        />
-        <button type="button" className={scss.newArrivalsFavoritesIconBox}>
-          <CiHeart></CiHeart>
-        </button>
-        <p className={scss.productText}>Mid-rise slim cropped fit jeans</p>
-        <span className={scss.productPrice}>$40.00</span>
-      </a>
-      <a className={scss.newArrivalsLinkBox} href="/">
-        <img src={isRetina(earring1x, earring2x)} alt="Red dangle earrings" />
-        <button type="button" className={scss.newArrivalsFavoritesIconBox}>
-          <CiHeart></CiHeart>
-        </button>
-        <p className={scss.productText}>Red dangle earrings</p>
-        <span className={scss.productPrice}>$29.95</span>
-      </a>
-      <a className={scss.newArrivalsLinkBox} href="/">
-        <img src={isRetina(shoes1x, shoes2x)} alt="Baby shoes with laces" />
-        <button type="button" className={scss.newArrivalsFavoritesIconBox}>
-          <CiHeart></CiHeart>
-        </button>
-        <p className={scss.productText}>Baby shoes with laces</p>
-        <span className={scss.productPrice}>$30.60</span>
-      </a>
-    </div>
+    <ul className={scss.newArrivalsListBox}>
+      <li>
+        <a className={scss.newArrivalsLinkBox} href="/">
+          <img src={isRetina(hat1x, hat2x)} alt="Black and white sport cap" />
+          <button type="button" className={scss.newArrivalsFavoritesIconBox}>
+            <CiHeart></CiHeart>
+          </button>
+          <p className={scss.productText}>Black and white sport cap</p>
+          <span className={scss.productPrice}>$18.15</span>
+        </a>
+      </li>
+
+      <li>
+        <a className={scss.newArrivalsLinkBox} href="/">
+          <img src={isRetina(glass1x, glass2x)} alt="Metal bridge sunglasses" />
+          <button type="button" className={scss.newArrivalsFavoritesIconBox}>
+            <CiHeart></CiHeart>
+          </button>
+          <p className={scss.productText}>Metal bridge sunglasses</p>
+          <span className={scss.productPrice}>$89.95</span>
+        </a>
+      </li>
+
+      <li>
+        <a className={scss.newArrivalsLinkBox} href="/">
+          <img src={isRetina(romper1x, romper2x)} alt="Green baby romper" />
+          <button type="button" className={scss.newArrivalsFavoritesIconBox}>
+            <CiHeart></CiHeart>
+          </button>
+          <p className={scss.productText}>Green baby romper</p>
+          <span className={scss.productPrice}>$20.40</span>
+        </a>
+      </li>
+
+      <li>
+        <a className={scss.newArrivalsLinkBox} href="/">
+          <img
+            src={isRetina(jeans1x, jeans2x)}
+            alt="Mid-rise slim cropped fit jeans"
+          />
+          <button type="button" className={scss.newArrivalsFavoritesIconBox}>
+            <CiHeart></CiHeart>
+          </button>
+          <p className={scss.productText}>Mid-rise slim cropped fit jeans</p>
+          <span className={scss.productPrice}>$40.00</span>
+        </a>
+      </li>
+
+      <li>
+        <a className={scss.newArrivalsLinkBox} href="/">
+          <img src={isRetina(earring1x, earring2x)} alt="Red dangle earrings" />
+          <button type="button" className={scss.newArrivalsFavoritesIconBox}>
+            <CiHeart></CiHeart>
+          </button>
+          <p className={scss.productText}>Red dangle earrings</p>
+          <span className={scss.productPrice}>$29.95</span>
+        </a>
+      </li>
+
+      <li>
+        <a className={scss.newArrivalsLinkBox} href="/">
+          <img src={isRetina(shoes1x, shoes2x)} alt="Baby shoes with laces" />
+          <button type="button" className={scss.newArrivalsFavoritesIconBox}>
+            <CiHeart></CiHeart>
+          </button>
+          <p className={scss.productText}>Baby shoes with laces</p>
+          <span className={scss.productPrice}>$30.60</span>
+        </a>
+      </li>
+    </ul>
   );
 };
