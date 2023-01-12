@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/online-shop/static/css/main.435f5497.css",
-    "main.js": "/online-shop/static/js/main.2649ec90.js",
+    "main.css": "/online-shop/static/css/main.d01ad093.css",
+    "main.js": "/online-shop/static/js/main.92893725.js",
     "static/media/fon.jpg": "/online-shop/static/media/fon.a9ce1090d156034211f3.jpg",
     "static/media/MainPageCategoryKids@2x.jpg": "/online-shop/static/media/MainPageCategoryKids@2x.e7594225550aa289ba7c.jpg",
     "static/media/MainPageCategoryWoman@2x.jpg": "/online-shop/static/media/MainPageCategoryWoman@2x.63788648b0d4f511a5ce.jpg",
@@ -20,13 +20,19 @@
     "static/media/earring_new_arrivals@2x.jpg": "/online-shop/static/media/earring_new_arrivals@2x.e86f692040b8348988e2.jpg",
     "static/media/jeans_new_arrivals@2x.jpg": "/online-shop/static/media/jeans_new_arrivals@2x.06cd282e63518fc226dd.jpg",
     "static/media/free_delivery.jpg": "/online-shop/static/media/free_delivery.2327d08e67e0c097aa06.jpg",
+    "static/media/coats@2x.jpg": "/online-shop/static/media/coats@2x.1a2b3ab517bb1cff1be7.jpg",
+    "static/media/jackets@2x.jpg": "/online-shop/static/media/jackets@2x.c17dad0942a309a53a42.jpg",
+    "static/media/shirts@2x.jpg": "/online-shop/static/media/shirts@2x.94dd178b1923c5df8907.jpg",
     "static/media/hat_new_arrivals@2x.jpg": "/online-shop/static/media/hat_new_arrivals@2x.96216b888dfa1fee4e75.jpg",
+    "static/media/sandals@2x.jpg": "/online-shop/static/media/sandals@2x.7d2b1069dce2c55e4ec9.jpg",
+    "static/media/tops@2x.jpg": "/online-shop/static/media/tops@2x.bebf652b70b571d723c7.jpg",
+    "static/media/caps@2x.jpg": "/online-shop/static/media/caps@2x.34d7d3ea0ad2be26d3be.jpg",
     "index.html": "/online-shop/index.html",
-    "main.435f5497.css.map": "/online-shop/static/css/main.435f5497.css.map",
-    "main.2649ec90.js.map": "/online-shop/static/js/main.2649ec90.js.map"
+    "main.d01ad093.css.map": "/online-shop/static/css/main.d01ad093.css.map",
+    "main.92893725.js.map": "/online-shop/static/js/main.92893725.js.map"
   },
   "entrypoints": [
-    "static/css/main.435f5497.css",
-    "static/js/main.2649ec90.js"
+    "static/css/main.d01ad093.css",
+    "static/js/main.92893725.js"
   ]
 }
