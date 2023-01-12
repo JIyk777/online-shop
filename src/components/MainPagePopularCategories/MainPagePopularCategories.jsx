@@ -5,7 +5,9 @@ export const MainPagePopularCategories = () => {
   return (
     <section>
       <div className={scss.container}>
-        <h2>Popular categories</h2>
+        <h2 className={scss.mainPagePopularCategoriesTitle}>
+          Popular categories
+        </h2>
         <PopularCategoriesList></PopularCategoriesList>
       </div>
     </section>
