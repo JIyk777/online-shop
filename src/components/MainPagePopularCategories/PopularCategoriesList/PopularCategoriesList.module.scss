@@ -1,0 +1,16 @@
+.popularCategoriesList {
+  display: flex;
+  gap: 30px;
+  margin-top: 60px;
+  &Item {
+    width: 120px;
+    border-radius: 50%;
+  }
+  &Link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+  }
+}

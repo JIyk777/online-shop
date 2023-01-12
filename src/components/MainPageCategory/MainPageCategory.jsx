@@ -17,8 +17,8 @@ export const MainPageCategory = () => {
               className={scss.mainPageCategoryImg}
               src={isRetina(woman1x, woman2x)}
               alt="woman"
-              width="390"
-              height="390"
+              width="290"
+              height="290"
             />
             <span>Women’s</span>
           </a>
@@ -29,8 +29,8 @@ export const MainPageCategory = () => {
               className={scss.mainPageCategoryImg}
               src={isRetina(man1x, man2x)}
               alt="man"
-              width="390"
-              height="390"
+              width="290"
+              height="290"
             />
             <span>Men’s</span>
           </a>
@@ -41,8 +41,8 @@ export const MainPageCategory = () => {
               className={scss.mainPageCategoryImg}
               src={isRetina(kids1x, kids2x)}
               alt="kids"
-              width="390"
-              height="390"
+              width="290"
+              height="290"
             />
             <span>Kids’</span>
           </a>
