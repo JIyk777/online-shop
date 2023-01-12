@@ -1,24 +1,32 @@
 {
   "files": {
-    "main.css": "/online-shop/static/css/main.5b8be142.css",
-    "main.js": "/online-shop/static/js/main.09c6b554.js",
+    "main.css": "/online-shop/static/css/main.435f5497.css",
+    "main.js": "/online-shop/static/js/main.2649ec90.js",
     "static/media/fon.jpg": "/online-shop/static/media/fon.a9ce1090d156034211f3.jpg",
     "static/media/MainPageCategoryKids@2x.jpg": "/online-shop/static/media/MainPageCategoryKids@2x.e7594225550aa289ba7c.jpg",
     "static/media/MainPageCategoryWoman@2x.jpg": "/online-shop/static/media/MainPageCategoryWoman@2x.63788648b0d4f511a5ce.jpg",
     "static/media/MainPageCategoryMan@2x.jpg": "/online-shop/static/media/MainPageCategoryMan@2x.f6cd44b48373f5647560.jpg",
+    "static/media/deal_of_the_week@2x.jpg": "/online-shop/static/media/deal_of_the_week@2x.f7f80f76721a805916cd.jpg",
+    "static/media/shoes_bags@2x.jpg": "/online-shop/static/media/shoes_bags@2x.80072cca16a929b3fbfd.jpg",
     "static/media/MainPageCategoryKids.jpg": "/online-shop/static/media/MainPageCategoryKids.7434a6506c89ac8694d2.jpg",
+    "static/media/summer_collections@2x.jpg": "/online-shop/static/media/summer_collections@2x.1c01ab59f6bc627947b6.jpg",
+    "static/media/deal_of_the_week.jpg": "/online-shop/static/media/deal_of_the_week.6911e67d8e7d6f2a8e59.jpg",
     "static/media/MainPageCategoryWoman.jpg": "/online-shop/static/media/MainPageCategoryWoman.ddac2541e69cb5a896c9.jpg",
     "static/media/MainPageCategoryMan.jpg": "/online-shop/static/media/MainPageCategoryMan.770c800d0ae7307628a5.jpg",
+    "static/media/free_delivery@2x.jpg": "/online-shop/static/media/free_delivery@2x.dd89153327e15ee3de33.jpg",
+    "static/media/shoes_bags.jpg": "/online-shop/static/media/shoes_bags.21a40909cdd18c66bdff.jpg",
+    "static/media/summer_collections.jpg": "/online-shop/static/media/summer_collections.effc4dfbc5f32983292d.jpg",
     "static/media/shoes_new_arrivals@2x.jpg": "/online-shop/static/media/shoes_new_arrivals@2x.23dc36b40471bed07a75.jpg",
     "static/media/earring_new_arrivals@2x.jpg": "/online-shop/static/media/earring_new_arrivals@2x.e86f692040b8348988e2.jpg",
     "static/media/jeans_new_arrivals@2x.jpg": "/online-shop/static/media/jeans_new_arrivals@2x.06cd282e63518fc226dd.jpg",
+    "static/media/free_delivery.jpg": "/online-shop/static/media/free_delivery.2327d08e67e0c097aa06.jpg",
     "static/media/hat_new_arrivals@2x.jpg": "/online-shop/static/media/hat_new_arrivals@2x.96216b888dfa1fee4e75.jpg",
     "index.html": "/online-shop/index.html",
-    "main.5b8be142.css.map": "/online-shop/static/css/main.5b8be142.css.map",
-    "main.09c6b554.js.map": "/online-shop/static/js/main.09c6b554.js.map"
+    "main.435f5497.css.map": "/online-shop/static/css/main.435f5497.css.map",
+    "main.2649ec90.js.map": "/online-shop/static/js/main.2649ec90.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b8be142.css",
-    "static/js/main.09c6b554.js"
+    "static/css/main.435f5497.css",
+    "static/js/main.2649ec90.js"
   ]
 }
