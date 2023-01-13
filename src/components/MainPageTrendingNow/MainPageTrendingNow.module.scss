@@ -1,0 +1,106 @@
+@import 'assets/styles/_container.scss';
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.mainPageTrendingNow {
+  padding: 80px 0;
+  background-color: #e5e8ed;
+  &Link {
+    display: inline-block;
+    padding: 10px 24px;
+    border: 1px solid #17696a;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 12px;
+    color: #17696a;
+    margin-left: auto;
+    margin-right: auto;
+    &:hover,
+    &:focus {
+      background-color: #17696a;
+      color: white;
+    }
+  }
+
+  &HeadBox {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 60px;
+  }
+
+  &Title {
+    font-size: 36px;
+  }
+
+  &Pagination {
+    display: flex;
+    gap: 4px;
+  }
+
+  &PaginationBtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border: 0;
+    border-radius: 50%;
+    background-color: #e5e8ed;
+    cursor: pointer;
+    &:hover,
+    &:focus {
+      background-color: #17696a;
+      color: #fff;
+    }
+    &Icon {
+      width: 18px;
+      height: 18px;
+    }
+  }
+
+  &ProductList {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 80px;
+  }
+
+  &ProductItem {
+    position: relative;
+  }
+
+  &ProductItemImg {
+    margin-bottom: 16px;
+  }
+
+  &ProductItemFavoriteBtn {
+    position: absolute;
+    bottom: 74px;
+    right: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 32px;
+    height: 32px;
+    border: 0;
+    border-radius: 50%;
+    cursor: pointer;
+
+    background-color: #ffffff;
+    &:hover,
+    &:focus {
+      background-color: #17696a;
+      color: #ffffff;
+    }
+  }
+
+  &ProductItemInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 0 16px;
+  }
+}
