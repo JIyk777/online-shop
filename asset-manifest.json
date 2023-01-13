@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/online-shop/static/css/main.3c3e6575.css",
-    "main.js": "/online-shop/static/js/main.dae3bdea.js",
+    "main.css": "/online-shop/static/css/main.0a71dae9.css",
+    "main.js": "/online-shop/static/js/main.7a71feaa.js",
     "static/media/fon.jpg": "/online-shop/static/media/fon.a9ce1090d156034211f3.jpg",
     "static/media/MainPageCategoryKids@2x.jpg": "/online-shop/static/media/MainPageCategoryKids@2x.e7594225550aa289ba7c.jpg",
     "static/media/MainPageCategoryWoman@2x.jpg": "/online-shop/static/media/MainPageCategoryWoman@2x.63788648b0d4f511a5ce.jpg",
@@ -13,26 +13,31 @@
     "static/media/deal_of_the_week.jpg": "/online-shop/static/media/deal_of_the_week.6911e67d8e7d6f2a8e59.jpg",
     "static/media/MainPageCategoryWoman.jpg": "/online-shop/static/media/MainPageCategoryWoman.ddac2541e69cb5a896c9.jpg",
     "static/media/MainPageCategoryMan.jpg": "/online-shop/static/media/MainPageCategoryMan.770c800d0ae7307628a5.jpg",
+    "static/media/coat@2x.jpg": "/online-shop/static/media/coat@2x.804b47eae3ed06eed6ce.jpg",
     "static/media/free_delivery@2x.jpg": "/online-shop/static/media/free_delivery@2x.dd89153327e15ee3de33.jpg",
     "static/media/shoes_bags.jpg": "/online-shop/static/media/shoes_bags.21a40909cdd18c66bdff.jpg",
+    "static/media/shirt@2x.jpg": "/online-shop/static/media/shirt@2x.2e0270909a21b5537460.jpg",
     "static/media/summer_collections.jpg": "/online-shop/static/media/summer_collections.effc4dfbc5f32983292d.jpg",
     "static/media/shoes_new_arrivals@2x.jpg": "/online-shop/static/media/shoes_new_arrivals@2x.23dc36b40471bed07a75.jpg",
+    "static/media/watch@2x.jpg": "/online-shop/static/media/watch@2x.5b21d04d029ff80a5241.jpg",
     "static/media/earring_new_arrivals@2x.jpg": "/online-shop/static/media/earring_new_arrivals@2x.e86f692040b8348988e2.jpg",
+    "static/media/coat.jpg": "/online-shop/static/media/coat.ebb4f23e82757d7a49a7.jpg",
     "static/media/jeans_new_arrivals@2x.jpg": "/online-shop/static/media/jeans_new_arrivals@2x.06cd282e63518fc226dd.jpg",
     "static/media/free_delivery.jpg": "/online-shop/static/media/free_delivery.2327d08e67e0c097aa06.jpg",
     "static/media/coats@2x.jpg": "/online-shop/static/media/coats@2x.1a2b3ab517bb1cff1be7.jpg",
     "static/media/jackets@2x.jpg": "/online-shop/static/media/jackets@2x.c17dad0942a309a53a42.jpg",
     "static/media/shirts@2x.jpg": "/online-shop/static/media/shirts@2x.94dd178b1923c5df8907.jpg",
+    "static/media/shirt.jpg": "/online-shop/static/media/shirt.76bb0159457548dac321.jpg",
     "static/media/hat_new_arrivals@2x.jpg": "/online-shop/static/media/hat_new_arrivals@2x.96216b888dfa1fee4e75.jpg",
     "static/media/sandals@2x.jpg": "/online-shop/static/media/sandals@2x.7d2b1069dce2c55e4ec9.jpg",
     "static/media/tops@2x.jpg": "/online-shop/static/media/tops@2x.bebf652b70b571d723c7.jpg",
     "static/media/caps@2x.jpg": "/online-shop/static/media/caps@2x.34d7d3ea0ad2be26d3be.jpg",
     "index.html": "/online-shop/index.html",
-    "main.3c3e6575.css.map": "/online-shop/static/css/main.3c3e6575.css.map",
-    "main.dae3bdea.js.map": "/online-shop/static/js/main.dae3bdea.js.map"
+    "main.0a71dae9.css.map": "/online-shop/static/css/main.0a71dae9.css.map",
+    "main.7a71feaa.js.map": "/online-shop/static/js/main.7a71feaa.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c3e6575.css",
-    "static/js/main.dae3bdea.js"
+    "static/css/main.0a71dae9.css",
+    "static/js/main.7a71feaa.js"
   ]
 }
