@@ -5,9 +5,9 @@
   flex-direction: column;
 }
 
-.mainPageTrendingNow {
+.mainPageSaleUp {
   padding: 80px 0;
-  background-color: #e5e8ed;
+
   &Link {
     display: inline-block;
     padding: 10px 24px;
@@ -76,6 +76,18 @@
     margin-bottom: 16px;
   }
 
+  &ProductItemSaleInfo {
+    position: absolute;
+    top: 18px;
+    left: 24px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 14px;
+    background-color: #ff4242;
+    color: #ffffff;
+  }
+
   &ProductItemFavoriteBtn {
     position: absolute;
     bottom: 74px;
@@ -104,8 +116,20 @@
     padding: 0 16px;
   }
 
+  &ProductItemPriceBox {
+    display: flex;
+    gap: 12px;
+    align-items: baseline;
+  }
+
   &ProductItemPrice {
     font-weight: 700;
     font-size: 24px;
+    color: #ff4242;
+  }
+  &ProductItemPriceSale {
+    font-size: 16px;
+    color: #787a80;
+    text-decoration: line-through;
   }
 }

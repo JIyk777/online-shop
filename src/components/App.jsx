@@ -5,6 +5,7 @@ import { MainPageNewArrivals } from './MainPageNewArrivals/MainPageNewArrivals';
 import { MainPageBoardProfitableOffers } from './MainPageBoardProfitableOffers/MainPageBoardProfitableOffers';
 import { MainPagePopularCategories } from './MainPagePopularCategories/MainPagePopularCategories';
 import { MainPageTrendingNow } from './MainPageTrendingNow/MainPageTrendingNow';
+import { MainPageSaleUp } from './MainPageSaleUp/MainPageSaleUp';
 
 export const App = () => {
   return (
@@ -16,6 +17,7 @@ export const App = () => {
       <MainPageBoardProfitableOffers></MainPageBoardProfitableOffers>
       <MainPagePopularCategories></MainPagePopularCategories>
       <MainPageTrendingNow></MainPageTrendingNow>
+      <MainPageSaleUp></MainPageSaleUp>
     </>
   );
 };
